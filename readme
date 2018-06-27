@@ -1,6 +1,6 @@
-#### build gstreamer rtsp server
+---- build gstreamer rtsp server
 
-## precondition:
+-- precondition:
 
 git clone git://git.gnome.org/gtk-doc
 
